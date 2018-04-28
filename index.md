@@ -2,6 +2,10 @@
 layout: default
 title: Navdeep Pal's Personal Homepage.
 ---
+
+# Summary
+A data scientist and clinician, who is committed to make difference in patient's life through analytics. An independent researcher with 6 years of professional experience in healthcare industry. An expert in experimental designs, machine learning, high dimensional data analysis, and statistical analysis with strong technical skills. Coauthor of 20 scientific publications in reputed journals that have been cited 60+ times by scientific community.
+
 # Education
 * MS in Biostatistics
 * MS in Health Informatics
@@ -9,8 +13,14 @@ title: Navdeep Pal's Personal Homepage.
 * BAMS (Equivalent to MD)
 * Diploma in Electrical Engineering
 
-# Summary
-A data scientist and clinician, who is committed to make difference in patient's life through analytics. An independent researcher with 6 years of professional experience in healthcare industry. An expert in experimental designs, machine learning, high dimensional data analysis, and statistical analysis with strong technical skills. Coauthor of 20 scientific publications in reputed journals that have been cited 60+ times by scientific community.
+# Professional Experience
+
+<img src="images/gene.png" alt="Mckesson"/>
+<img src="images/mck.png" alt="Mckesson"/>
+<img src="images/md-anderson.jpg" alt="Mckesson"/>
+<img src="images/array.png" alt="Mckesson"/>
+<img src="images/utmed.png" alt="Mckesson"/>
+
 
 # Core Strengths:
 
@@ -25,4 +35,3 @@ A data scientist and clinician, who is committed to make difference in patient's
 * R
 * SAS
 * SQL
-
