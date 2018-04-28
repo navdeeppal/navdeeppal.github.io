@@ -15,20 +15,29 @@ A data scientist and clinician, who is committed to make difference in patient's
 
 # Professional Experience
 
-* April 2018 to Present | **Data Scientist**
-<img src="images/gene.png" alt="Mckesson" style="width: 200px;"/>
+April 2018 to Present | **Data Scientist**
 
-* February 2016 to April 2018 | **Data Scientist**
-<img src="images/mck.png" alt="Mckesson" style="width: 200px;"/>
+<img src="images/gene.png" alt="Mckesson" style="width: 100px;"/>
 
-* April 2011 to December 2015 | **Researcher | Statistical Analyst**
-<img src="images/md-anderson.jpg" alt="Mckesson" style="width: 200px;"/>
 
-* May 2013 to August 2013 | **Biostatistics Intern**
-<img src="images/array.png" alt="Mckesson" style="width: 200px;"/>
+February 2016 to April 2018 | **Data Scientist**
 
-* August 2013 to December 2015 | **Researcher | Data Analyst**
-<img src="images/utmed.png" alt="Mckesson" style="width: 200px;"/>
+<img src="images/mck.png" alt="Mckesson" style="width: 100px;"/>
+
+
+April 2011 to December 2015 | **Researcher | Statistical Analyst**
+
+<img src="images/md-anderson.jpg" alt="Mckesson" style="width: 100px;"/>
+
+
+May 2013 to August 2013 | **Biostatistics Intern**
+
+<img src="images/array.png" alt="Mckesson" style="width: 100px;"/>
+
+
+August 2013 to December 2015 | **Researcher | Data Analyst**
+
+<img src="images/utmed.png" alt="Mckesson" style="width: 100px;"/>
 
 
 # Core Strengths:
