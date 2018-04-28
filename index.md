@@ -15,11 +15,11 @@ A data scientist and clinician, who is committed to make difference in patient's
 
 # Professional Experience
 
-<img src="images/gene.png" alt="Mckesson"/>
-<img src="images/mck.png" alt="Mckesson"/>
-<img src="images/md-anderson.jpg" alt="Mckesson"/>
-<img src="images/array.png" alt="Mckesson"/>
-<img src="images/utmed.png" alt="Mckesson"/>
+<img src="images/gene.png" alt="Mckesson" style="width: 200px;"/>
+<img src="images/mck.png" alt="Mckesson" style="width: 200px;"/>
+<img src="images/md-anderson.jpg" alt="Mckesson" style="width: 200px;"/>
+<img src="images/array.png" alt="Mckesson" style="width: 200px;"/>
+<img src="images/utmed.png" alt="Mckesson" style="width: 200px;"/>
 
 
 # Core Strengths:
