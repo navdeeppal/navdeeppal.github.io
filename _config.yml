@@ -1,1 +1,10 @@
-theme: jekyll-theme-tactile
+name: White Paper
+markdown: redcarpet
+title: Navdeep Pal
+description: Welcome to my personal homepage.
+
+# Owner/author information
+owner:
+  name: Navdeep Pal
+
+theme: jekyll-theme-cayman
