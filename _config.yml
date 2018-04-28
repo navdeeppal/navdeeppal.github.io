@@ -1,3 +1,7 @@
-theme: jekyll-theme-tactile
-title: Welcome to Navdeep's personal homepage
-description: This page contains information on professional profile.
+name: White Paper
+markdown: redcarpet
+description: Navdeep Pal's personal homepage.
+
+# Owner/author information
+owner:
+  name: Navdeep Pal
