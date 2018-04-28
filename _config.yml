@@ -5,3 +5,5 @@ description: Navdeep Pal's personal homepage.
 # Owner/author information
 owner:
   name: Navdeep Pal
+
+theme: jekyll-theme-cayman
