@@ -31,7 +31,7 @@ A data scientist and clinician, who is committed to make difference in patient's
 <img src="images/utmed.png" alt="Mckesson" style="width: 150px;"/>
 
 * July 2009 to February 2010 | **Resident Medical Officer**
-<img src="images/Madaan Hospital.png" alt="MadaanHospital" style="width: 150px;"/>
+<img src="images/Madaan Hospital.jpg" alt="MadaanHospital" style="width: 150px;"/>
 
 # Core Strengths:
 
@@ -49,4 +49,4 @@ A data scientist and clinician, who is committed to make difference in patient's
 
 # Publications:
 
-[Navdeep Pal's Publications and Citations] (https://scholar.google.com/citations?user=lQ3-LBMAAAAJ&hl=en)
+[Navdeep Pal's Publications and Citations]: (https://scholar.google.com/citations?user=lQ3-LBMAAAAJ&hl=en)
