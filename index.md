@@ -30,6 +30,8 @@ A data scientist and clinician, who is committed to make difference in patient's
 * August 2013 to December 2015 | **Researcher | Data Analyst**
 <img src="images/utmed.png" alt="Mckesson" style="width: 150px;"/>
 
+* July 2009 to February 2010 | **Resident Medical Officer**
+<img src="images/Madaan Hospital.png" alt="MadaanHospital" style="width: 150px;"/>
 
 # Core Strengths:
 
