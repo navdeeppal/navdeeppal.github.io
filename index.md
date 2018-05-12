@@ -49,4 +49,4 @@ A data scientist and clinician, who is committed to make difference in patient's
 
 # Publications:
 
-[Navdeep Pal's Publications and Citations]: (https://scholar.google.com/citations?user=lQ3-LBMAAAAJ&hl=en)
+[Navdeep Pal's Publications and Citations]: https://scholar.google.com/citations?user=lQ3-LBMAAAAJ&hl=en
